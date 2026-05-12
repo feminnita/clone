@@ -1,0 +1,6 @@
+anthropic
+httpx
+flask
+beautifulsoup4
+# Opcional — ativa refinamento visual com screenshots:
+# playwright  →  depois: playwright install chromium
